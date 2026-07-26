@@ -35,6 +35,7 @@ This project encrypts plaintext using two lightweight, reversible transformation
 - No external libraries (uses only `java.security.MessageDigest`, `java.lang.StringBuilder`, and `java.util.Scanner`)
 
 ## Project Structure
+
 HybridXORRotationHash/
 ├── pom.xml
 ├── src/
